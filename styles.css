@@ -46,14 +46,14 @@ footer {
 }
 
 footer a {
-  color: #a4676d;
+  color: #b09e70;
   text-decoration: underline;
   text-decoration-color: #bbb;
   text-underline-offset: 0.15em;
 }
 
 footer a:hover {
-  text-decoration-color: #35282b;
+  text-decoration-color: #a4676d;
 }
 
 footer a:focus-visible {
