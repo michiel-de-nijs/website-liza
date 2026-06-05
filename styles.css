@@ -42,18 +42,18 @@ footer {
   text-align: center;
   font-size: clamp(0.8rem, 1.2vw + 0.5rem, 0.95rem);
   line-height: 1.6;
-  color: #0a0f10;
+  color: #09100f;
 }
 
 footer a {
-  color: #8ac0c7;
+  color: #a4676d;
   text-decoration: underline;
   text-decoration-color: #bbb;
   text-underline-offset: 0.15em;
 }
 
 footer a:hover {
-  text-decoration-color: #487c68;
+  text-decoration-color: #35282b;
 }
 
 footer a:focus-visible {
